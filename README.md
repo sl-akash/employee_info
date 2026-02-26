@@ -1,60 +1,100 @@
-📱 Application Name
+# 📱 Role-Based Flutter Application
 
-A Flutter-based mobile application with Admin and Staff role-based login system.
+A Flutter mobile application with **Admin** and **Staff** login access.  
+This app demonstrates role-based authentication and dashboard navigation.
 
-🚀 Features
+---
 
-🔐 Secure Authentication
+## 🚀 Features
 
-👨‍💼 Admin Dashboard
+- 🔐 Login Authentication
+- 👨‍💼 Admin Dashboard
+- 👩‍💻 Staff Dashboard
+- 🔄 Role-Based Access Control
+- 📱 Clean and Responsive UI
+- ⚡ Built with Flutter & Dart
 
-👩‍💻 Staff Dashboard
+---
 
-🔄 Role-Based Navigation
-
-📱 Clean & Responsive UI
-
-🌐 API Integration (if applicable)
-
-🔑 Demo Login Credentials
+## 🔑 Demo Login Credentials
 
 Use the following credentials to test the application:
 
-👨‍💼 Admin Account
-Email: admin@gmail.com
-Password: 12345678
-👩‍💻 Staff Account
-Email: staff@gmail.com
-Password: 12345678
+### 👨‍💼 Admin Login
+- **Email:** admin@gmail.com  
+- **Password:** 12345678  
 
-⚠️ These credentials are for demo/testing purposes only.
+### 👩‍💻 Staff Login
+- **Email:** staff@gmail.com  
+- **Password:** 12345678  
 
-🛠️ Getting Started
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/your-repository-name.git
-2️⃣ Navigate to Project Folder
-cd your-repository-name
-3️⃣ Install Dependencies
+> ⚠️ These credentials are for demonstration purposes only.  
+> Please change them before deploying to production.
+
+---
+
+## 🛠️ Getting Started
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/sl-akash/employee_info.git
+```
+
+### 2️⃣ Navigate to the Project Folder
+
+```bash
+cd employee_info
+```
+
+### 3️⃣ Install Dependencies
+
+```bash
 flutter pub get
-4️⃣ Run the App
+```
+
+### 4️⃣ Run the App
+
+```bash
 flutter run
-📦 Build APK
+```
 
-To generate a release APK:
+---
 
+## 📦 Build Release APK
+
+```bash
 flutter build apk --release
+```
 
-APK file will be located in:
+APK output location:
 
+```
 build/app/outputs/flutter-apk/app-release.apk
-🧑‍💻 Tech Stack
+```
 
-Flutter
+---
 
-Dart
+## 📂 Project Structure
 
-(Optional) REST API
+```
+lib/
+ ├── activity/
+ ├── data/
+ ├── support/
+ └── main.dart
+```
 
-(Optional) Firebase / Backend Integration
+---
 
-📌 Project Structure (Example)
+## 🧑‍💻 Technologies Used
+
+- Flutter
+- Dart
+- REST API
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
