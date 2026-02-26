@@ -28,9 +28,6 @@ Use the following credentials to test the application:
 - **Email:** staff@gmail.com  
 - **Password:** 12345678  
 
-> ⚠️ These credentials are for demonstration purposes only.  
-> Please change them before deploying to production.
-
 ---
 
 ## 🛠️ Getting Started
@@ -98,3 +95,4 @@ lib/
 ## 📄 License
 
 This project is licensed under the MIT License.
+
