@@ -12,8 +12,7 @@ This app demonstrates role-based authentication and dashboard navigation.
 </p>
 
 <p align="center">
-  <img src="screenshots/01%20splash%20screen.png" width="300">
-  <img src="screenshots/01%20splash%20screen.png" width="300">
+  <img src="screenshots/02%20login%20screen.png" width="300">
 </p>
 
 - 🔐 Login Authentication
@@ -104,6 +103,7 @@ lib/
 ## 📄 License
 
 This project is licensed under the MIT License.
+
 
 
 
