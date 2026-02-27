@@ -16,6 +16,8 @@ This app demonstrates role-based authentication and dashboard navigation.
 
 ---
 
+![App Screenshot](screenshots/01%20splash%20screen.png)
+
 ## 🔑 Demo Login Credentials
 
 Use the following credentials to test the application:
@@ -95,4 +97,5 @@ lib/
 ## 📄 License
 
 This project is licensed under the MIT License.
+
 
