@@ -15,6 +15,32 @@ This app demonstrates role-based authentication and dashboard navigation.
   <img src="screenshots/02%20login%20screen.png" width="300">
 </p>
 
+<p align="center">
+  <img src="screenshots/03%20home%20screen admin.png" width="300">
+  <img src="screenshots/04 home screen menu.png" width="300">
+  <img src="screenshots/05 home screen staff.png" width="300">
+</p>
+
+<p align="center">
+  <img src="screenshots/06 employee page.png" width="300">
+</p>
+
+
+<p align="center">
+  <img src="screenshots/07 unique staff page.png" width="300">
+  <img src="screenshots/08 unique staff page 2.png" width="300">
+</p>
+
+
+<p align="center">
+  <img src="screenshots/09 create staff page.png" width="300">
+  <img src="screenshots/10 create staff page 2.png" width="300">
+</p>
+
+<p align="center">
+  <img src="screenshots/11 user profile.png" width="300">
+</p>
+
 - 🔐 Login Authentication
 - 👨‍💼 Admin Dashboard
 - 👩‍💻 Staff Dashboard
@@ -103,6 +129,7 @@ lib/
 ## 📄 License
 
 This project is licensed under the MIT License.
+
 
 
 
